@@ -35,7 +35,7 @@ namespace Calculadora_Estruturada
 			return n1 - n2;
 		}
 
-		public float Miultiplicacao()
+		public float Multiplicacao()
 		{
 			return _num1 * _num2;
 		}
